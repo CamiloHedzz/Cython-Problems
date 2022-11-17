@@ -1,1 +1,1 @@
- #Comparación de rendimiento entre Cython y Python
+ # Comparación de rendimiento entre Cython y Python
