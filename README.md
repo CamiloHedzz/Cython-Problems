@@ -7,7 +7,7 @@ _Este proyecto surge con el fin de evaluar el rendiemiento de python a través d
 * Metodo de Monte Carlo para oproximaciones al numero PI
 * Algoritmo para calcular el factorial de un numero
 
-###Requisitos previos 🔧
+### Requisitos previos 🔧
 
 _Instalacion Python_
 
