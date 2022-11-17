@@ -63,10 +63,17 @@ El software Python se puede descargar gratis, se integra bien a todos los tipos 
 del desarrollo.
 
 
-###Bibliografia 
-_El material bibliografico en el que se bas este proyecto para la realizacion de pruebas y ejecucion del mismo fueron as sguientes_
+### Bibliografia
+
+_El material bibliografico en el que se basó este proyecto para la realización de pruebas y ejecución del mismo fueron las sguientes_
+
+* [Cython](http://www.dropwizard.io/1.0.2/docs/) - Como pasar correctamente de Python a Cython
+* [Python](https://docs.python.org/3/) - Documentación sobre Python
+* [Ciencia de datos](https://learn.microsoft.com/es-es/training/modules/explore-analyze-data-with-python/) - Exploración y tratamiento de datos con python
 
 ## Autores ✒️
+
+Hecho con ❤️ por
 * **Juan Esteban Arias** - *Ingeniero en Ciencias de la Computación e AI* 
 * **Juan Camilo Hernández** - *Ingeniero en Ciencias de la Computación e AI*
 * **Christian David Jimenez** - *Ingeniero en Ciencias de la Computación e AI* 
