@@ -1,5 +1,12 @@
  # Comparación de rendimiento entre Cython y Python
 
+_Este proyecto surge con el fin de evaluar el rendiemiento de python a través de cuatro problemas diferentes, en los que estan los siguientes algoritmos:_
+
+* Algoritmo de ordenamiento Burbuja
+* Multiplicacion de matrices
+* Metodo de Monte Carlo para oproximaciones al numero PI
+* Algoritmo para calcular el factorial de un numero
+
 CYTHON
 
 Cython es un lenguaje de programación para simplificar la escritura de módulos de extensión para 
