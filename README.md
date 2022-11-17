@@ -7,9 +7,46 @@ _Este proyecto surge con el fin de evaluar el rendiemiento de python a través d
 * Metodo de Monte Carlo para oproximaciones al numero PI
 * Algoritmo para calcular el factorial de un numero
 
-### Marco Teorico📋
+###Requisitos previos 🔧
 
-CYTHON
+_Instalacion Python_
+
+    $ sudo apt-get install Python3
+
+_Instalacion Cython_
+
+    $ sudo apt-get install Cython3
+  
+_Instalación compilador C_
+
+    $ sudo apt-get install build-essential
+  
+    $ sudo apt-get install gcc
+
+Proceso de compilación
+
+_Se hace uso de Makefile, por lo que facilita el trabajo al momento de compilar y ejecutar nuestros ficheros, el paso a paso es el siguiente:_
+    
+    $ make clean
+    
+    $ make all 
+
+Proceso de ejecución
+
+_Para Cython_
+
+    $ cytho3 -a archivo.pyx -o nombre
+
+_Para Python_
+
+    $ python3 setup.py build_ext --inplace
+  
+    $ python3 principal.py 
+  
+ 
+### Marco Conceptual📋
+
+**CYTHON**
 
 Cython es un lenguaje de programación para simplificar la escritura de módulos de extensión para 
 Python en C y C++. Siendo estrictos, la sintaxis de Cython es la misma de Python pero con algunos agregados:
@@ -17,7 +54,7 @@ Python en C y C++. Siendo estrictos, la sintaxis de Cython es la misma de Python
 1. Se pueden llamar funciones en C, o funciones/métodos de C++, directamente desde el código en Cython.
 2. Es posible usar tipos estáticos en las variables (enteros, flotantes, o cualquier tipo de dato).
 
-PYTHON
+**PYTHON**
 
 Python es un lenguaje de programación ampliamente utilizado en las aplicaciones web, el desarrollo de software,
 la ciencia de datos y el machine learning (ML). Los desarrolladores utilizan Python porque es eficiente 
@@ -26,21 +63,10 @@ El software Python se puede descargar gratis, se integra bien a todos los tipos 
 del desarrollo.
 
 
+###Bibliografia 
+_El material bibliografico en el que se bas este proyecto para la realizacion de pruebas y ejecucion del mismo fueron as sguientes_
 
-Requisitos para compilacion:
-
-    $ sudo apt-get install build-essential
-  
-    $ sudo apt-get install gcc
-  
-
-Requisitos para ejecución:
-
-    $ python3 setup.py build_ext --inplace
-  
-    $ python3 principal.py 
-  
-
-
-Universidad Sergio Arboleda
-Autor: Juan Camilo Hernández Ibáñez
+## Autores ✒️
+* **Juan Esteban Arias** - *Ingeniero en Ciencias de la Computación e AI* 
+* **Juan Camilo Hernández** - *Ingeniero en Ciencias de la Computación e AI*
+* **Christian David Jimenez** - *Ingeniero en Ciencias de la Computación e AI* 
