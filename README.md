@@ -1,11 +1,13 @@
  # Comparación de rendimiento entre Cython y Python
 
-_Este proyecto surge con el fin de evaluar el rendiemiento de python a través de cuatro problemas diferentes, en los que estan los siguientes algoritmos:_
+_Este proyecto surge con el fin de evaluar el rendiemiento de python a través de cuatro problemas diferentes, haciendo la comparación en paralelo con Cython para determinar la diferencia de los tiempos de cada una de las pruebas. En los que estan los siguientes algoritmos:_
 
 * Algoritmo de ordenamiento Burbuja
 * Multiplicacion de matrices
 * Metodo de Monte Carlo para oproximaciones al numero PI
 * Algoritmo para calcular el factorial de un numero
+
+### Marco Teorico📋
 
 CYTHON
 
