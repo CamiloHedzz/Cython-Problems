@@ -1,4 +1,4 @@
 
 
-<em> # Comparación de rendimiento entre Cython y Python</em>
+<em> #Comparación de rendimiento entre Cython y Python</em>
 
