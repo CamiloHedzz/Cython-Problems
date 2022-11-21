@@ -7,7 +7,7 @@ _Este proyecto surge con el fin de evaluar el rendiemiento de python a través d
 * Metodo de Monte Carlo para oproximaciones al numero PI
 * Algoritmo para calcular el factorial de un numero
 
-**El estudio y analisis de cada algoritmo se encuentra disponible en el siguiente cuaderno de colab: [Cython vs Python](https://colab.research.google.com/drive/1isSH0DHz-3BLqqUs3lsO1P5yN0wacyXu?usp=sharing)**
+**El estudio y analisis de cada algoritmo se encuentra disponible en el siguiente cuaderno de Google Colab: [Cython vs Python](https://colab.research.google.com/drive/1isSH0DHz-3BLqqUs3lsO1P5yN0wacyXu?usp=sharing)**
 
 ### Requisitos previos 🔧
 
